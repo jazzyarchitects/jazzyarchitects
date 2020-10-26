@@ -29,6 +29,11 @@ Visit me <a href="https://www.jibinmathews.in" target="_blank">here</a>
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Answer by Jibin Mathews for How do I get Events associated with a Pod via the API?](https://stackoverflow.com/questions/32894599/how-do-i-get-events-associated-with-a-pod-via-the-api/53428793#53428793)
+- [Meteor default http auth](https://stackoverflow.com/questions/51330866/meteor-default-http-auth)
+- [So what is a blockchain? By a “Full stack developer”](https://medium.com/coinmonks/so-what-is-a-blockchain-by-a-full-stack-developer-416a2ea3428f?source=rss-501de393fe67------2)
+- [Max number of masters a redis cluster can support](https://stackoverflow.com/questions/50259809/max-number-of-masters-a-redis-cluster-can-support)
+- [Enough is Enough… Promises are not better than callbacks](https://thebittheories.com/enough-is-enough-promises-are-not-better-than-callbacks-f1b7bb815f86?source=rss-501de393fe67------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@jibinmathews7)
