@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-<img src="https://www.jibinmathews.in/img/banner/home-right.png" height="200px"/>
-Visit me <a href="https://www.jibinmathews.in" target="_blank">here</a>
 
-### Connect with me:
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://www.jibinmathews.in/img/banner/home-right.png" height="200px"/>
+    </td>
+    <td>
+      <h3>Connect with me</h3>
+        <a href="https://www.jibinmathews.in" target="_blank">
+          <img align="left" alt="https://jibinmathews.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+        </a> &nbsp;&nbsp;
+        <a href="https://twitter.com/gbnrox" target="_blank">
+          <img align="left" alt="Twitter@gbnrox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+        </a> &nbsp;&nbsp;
+        <a href="https://www.linkedin.com/in/jibinmathews7/" target="_blank">
+          <img align="left" alt="LinkedIn@jibinmathews7" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+        </a> &nbsp;&nbsp;
+        <a href="https://www.instagram.com/jibo_lives/">
+          <img align="left" alt="Instagram@jibo_lives" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+        </a>
+    </td>
+  </tr>
+</table>
 
-[<img align="left" alt="https://jibinmathews.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.jibinmathews.in)
-[<img align="left" alt="Twitter@gbnrox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/gbnrox)
-[<img align="left" alt="LinkedIn@jibinmathews7" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jibinmathews7/)
-[<img align="left" alt="Instagram@jibo_lives" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/jibo_lives/)
-
-<br />
 
 ### Languages and Tools:
 
@@ -24,6 +37,7 @@ Visit me <a href="https://www.jibinmathews.in" target="_blank">here</a>
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+<br />
 ---
 
 ### 📕 Latest Blog Posts
@@ -37,3 +51,15 @@ Visit me <a href="https://www.jibinmathews.in" target="_blank">here</a>
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@jibinmathews7)
+
+<br />
+
+---
+<img src="https://github-readme-stats.vercel.app/api?username=jazzyarchitects&show_icons=true&count_private=true&hide=contribs,issues" />
+<br />
+<a href="https://github.com/jazzyarchitects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazzyarchitects&layout=compact" />
+</a>
+<a href="https://github.com/jazzyarchitects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jazzyarchitects" />
+</a>
